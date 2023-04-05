@@ -1,0 +1,27 @@
+body{
+    background-color: lightblue;
+}
+h2{
+    margin-right: 30px;
+}
+p{
+    display: inline-block;
+}
+div{
+    text-align: center;
+}
+.all{
+    margin-right: 40px;
+}
+.btn1,.btn2,.btn3{
+    margin-right: 10px;
+}
+.btn1:hover{
+    background-color: lightgreen;
+}
+.btn2:hover{
+    background-color: red;
+}
+.btn3:hover{
+    background-color: teal;
+}
